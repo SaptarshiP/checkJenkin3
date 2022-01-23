@@ -9,6 +9,7 @@ public class CheckJenkins2Application {
 	public static void main(String[] args) {
 		SpringApplication.run(CheckJenkins2Application.class, args);
 		System.out.println("Hello-PSJA7");
+		System.out.println("This is a dev branch");
 	}
 
 }
