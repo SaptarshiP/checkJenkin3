@@ -8,7 +8,7 @@ public class CheckJenkins2Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CheckJenkins2Application.class, args);
-		System.out.println("Hello-PSJA4");
+		System.out.println("Hello-PSJA5");
 		Sytem.out.println("I am in master branch");
 	}
 
